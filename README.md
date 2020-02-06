@@ -1,10 +1,10 @@
 # TokenCreator
 
-<div style="line-height:200px;">
-  <img src="/CreatureImages/AdamantineGolem.png" style="width:100;vertical-align:middle;"/> + 
-  <img src="/TokenPlatforms/CharacterBaseTop.png" style="width:100;vertical-align:middle;"/> + 
-  <img src="/TokenPlatforms/CharacterBaseBottom.png" style="width:100;vertical-align:middle;"/> -> 
-  <img src="/SaveFolder/AdamantineGolem.png" style="width:100;vertical-align:middle;"/>
+<div line-height="200">
+  <img src="/CreatureImages/AdamantineGolem.png" width="100" vertical-align="middle"/> + 
+  <img src="/TokenPlatforms/CharacterBaseTop.png" width="100" vertical-align="middle"/> + 
+  <img src="/TokenPlatforms/CharacterBaseBottom.png" width="100" vertical-align="middle"/> -> 
+  <img src="/SaveFolder/AdamantineGolem.png" width="100" vertical-align="middle"/>
 </div>
 
 
