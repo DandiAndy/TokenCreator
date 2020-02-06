@@ -1,13 +1,5 @@
 # TokenCreator
 
-<div line-height="200">
-  <img src="/CreatureImages/AdamantineGolem.png" width="100" vertical-align=middle/> + 
-  <img src="/TokenPlatforms/CharacterBaseTop.png" width="100" vertical-align=middle/> + 
-  <img src="/TokenPlatforms/CharacterBaseBottom.png" width="100" vertical-align=middle/> -> 
-  <img src="/SaveFolder/AdamantineGolem.png" width="100" vertical-align=middle/>
-</div>
-
-
 Made this token creator to create standing paper tokens for my tabletop games and labels them according to their filename (Note that proper spacing of the label will require [Camel Case](https://simple.wikipedia.org/wiki/CamelCase). See the example .png in the [CreatureImages](/CreatureImages) folder). 
 
 Modify the following in token_creator.py file and add folders where necessary:
@@ -26,3 +18,16 @@ _font = 'FFF_Tusj.ttf' # You can change the font by adding a new .ttf to the 'Fo
 
 _saveFolder = 'YOUR_SAVE_FOLDER_HERE' # The folder that will contain the newly saved tokens.
 
+<img src="/CreatureImages/AdamantineGolem.png" width="100"/> 
+
++ 
+
+<img src="/TokenPlatforms/CharacterBaseTop.png" width="100"/> 
+
++
+
+<img src="/TokenPlatforms/CharacterBaseBottom.png" width="100"/> 
+
+=
+
+<img src="/SaveFolder/AdamantineGolem.png" width="100"/>
