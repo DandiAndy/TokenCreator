@@ -1,5 +1,19 @@
 # TokenCreator
-<img src="/CreatureImages/AdamantineGolem.png" width="100"/> + <img src="/TokenPlatforms/CharacterBaseTop.png" width="100"/> + <img src="/TokenPlatforms/CharacterBaseBottom.png" width="100"/> -> <img src="/SaveFolder/AdamantineGolem.png" width="100"/>
+<style>
+  #parent {
+      line-height: 200px;
+  }
+  #parent img {
+      vertical-align: middle;
+  }
+  }
+</style>
+<div id="parent">
+  <img src="/CreatureImages/AdamantineGolem.png" width="100"/> + 
+  <img src="/TokenPlatforms/CharacterBaseTop.png" width="100"/> + 
+  <img src="/TokenPlatforms/CharacterBaseBottom.png" width="100"/> -> 
+  <img src="/SaveFolder/AdamantineGolem.png" width="100"/>
+</div>
 
 Made this token creator to create standing paper tokens for my tabletop games and labels them according to their filename (Note that proper spacing of the label will require [Camel Case](https://simple.wikipedia.org/wiki/CamelCase). See the example .png in the [CreatureImages](/CreatureImages) folder). 
 
