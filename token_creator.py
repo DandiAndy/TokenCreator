@@ -10,7 +10,7 @@ _img_platform_top = 'CharacterBaseTop.png'
 _img_platform_bottom = 'CharacterBaseBottom.png'
 _font_folder = 'Fonts'
 _font = 'FFF_Tusj.ttf'
-_saveFolder = 'Pathfinder2eTokens'
+_saveFolder = 'SaveFolder'
 
 _barWidth = 10
 
