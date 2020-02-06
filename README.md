@@ -1,6 +1,6 @@
 # TokenCreator
 
-![Pathfinder 2e Adamantine Golem](/SaveFolder/AdamantineGolem.png)
+![Pathfinder 2e Adamantine Golem](/SaveFolder/AdamantineGolem.png | width=100)
 
 Made this token creator to create standing paper tokens for my tabletop games. 
 
