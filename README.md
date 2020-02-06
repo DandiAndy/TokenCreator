@@ -18,16 +18,11 @@ _font = 'FFF_Tusj.ttf' # You can change the font by adding a new .ttf to the 'Fo
 
 _saveFolder = 'YOUR_SAVE_FOLDER_HERE' # The folder that will contain the newly saved tokens.
 
-<img src="/CreatureImages/AdamantineGolem.png" width="100"/> 
-
-+ 
-
-<img src="/TokenPlatforms/CharacterBaseTop.png" width="100"/> 
-
-+
-
-<img src="/TokenPlatforms/CharacterBaseBottom.png" width="100"/> 
-
-=
-
+Example: 
+<div>
+  <img src="/CreatureImages/AdamantineGolem.png" width="100"/> 
+  <img src="/TokenPlatforms/CharacterBaseTop.png" width="100"/> 
+  <img src="/TokenPlatforms/CharacterBaseBottom.png" width="100"/> 
+</div>
+Converts to
 <img src="/SaveFolder/AdamantineGolem.png" width="100"/>
