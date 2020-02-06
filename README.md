@@ -1,5 +1,7 @@
 # TokenCreator
 
+![Pathfinder 2e Adamantine Golem](/SaveFolder/AdamantineGolem.png)
+
 Made this token creator to create standing paper tokens for my tabletop games. 
 
 Modify the following in token_creator.py file and add folders where necessary:
@@ -17,3 +19,4 @@ _font_folder = 'Fonts' # Note that this is included in the repo, but can be chan
 _font = 'FFF_Tusj.ttf' # You can change the font by adding a new .ttf to the 'Font' folder and replacing the value of _font to match the new font.
 
 _saveFolder = 'YOUR_SAVE_FOLDER_HERE' # The folder that will contain the newly saved tokens.
+
