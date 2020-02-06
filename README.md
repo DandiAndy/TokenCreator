@@ -1,10 +1,19 @@
 # TokenCreator
+
+Made this token creator to create standing paper tokens for my tabletop games. 
+
 Modify the following in token_creator.py file and add folders where necessary:
 
-_img_location = 'CreatureImages'
-_img_base_location = 'TokenPlatforms'
-_img_platform_top = 'CharacterBaseTop.png'
-_img_platform_bottom = 'CharacterBaseBottom.png'
-_font_folder = 'Fonts'
-_font = 'FFF_Tusj.ttf'
-_saveFolder = 'Pathfinder2eTokens'
+_img_location = 'YOUR_CREATURE_IMAGE_FOLDER_HERE.png' # The folder that contains the images you want to tokenize.
+
+_img_base_location = 'YOUR_PLATFORM_FOLDER_HERE' # The folder that contains the top and bottom base platform that the token stands on.
+
+_img_platform_top = 'YOU_BASE_PLATFORM_TOP_HERE.png' # The top of circular platform image that the creature will stand on top of. It should sit inside of the _img_base_location folder.
+
+_img_platform_bottom = 'YOU_BASE_PLATFORM_BOTTOM_HERE.png' # The bottom of the circular platform image that the creature will stand on top of. Additionally, the name of the creature .png will be printed on the bottom. It should sit inside of the _img_base_location folder.
+
+_font_folder = 'Fonts' # Note that this is included in the repo, but can be changed. 
+
+_font = 'FFF_Tusj.ttf' # You can change the font by adding a new .ttf to the 'Font' folder and replacing the value of _font to match the new font.
+
+_saveFolder = 'YOUR_SAVE_FOLDER_HERE' # The folder that will contain the newly saved tokens.
