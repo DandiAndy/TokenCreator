@@ -2,6 +2,8 @@
 
 Made this token creator to create standing paper tokens for my tabletop games and labels them according to their filename (Note that proper spacing of the label will require [Camel Case](https://simple.wikipedia.org/wiki/CamelCase). See the example .png in the [CreatureImages](/CreatureImages) folder). 
 
+Note that the images will be scaled to the width of the platform base that you provide. The example platform base is 6 inches wide (1 inch = 5 feet ∴ 30 wide or of Colossal size). They can then be scaled down to meet your needs, but if you want to add your own base sized to Medium, Large, Huge, etc, you can do so. If you provide a 1 inch base, you should get token perfect for a single grid square.
+
 Modify the following in token_creator.py file and add folders where necessary:
 
 _img_location = 'YOUR_CREATURE_IMAGE_FOLDER_HERE.png' # The folder that contains the images you want to tokenize.
